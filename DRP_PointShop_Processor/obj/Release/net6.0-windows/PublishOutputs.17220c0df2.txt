@@ -1,0 +1,5 @@
+C:\Users\zec20\source\repos\DRP_PointShop_Processor\DRP_PointShop_Processor\bin\Release\net6.0-windows\final\DRP_PointShop_Processor.exe
+C:\Users\zec20\source\repos\DRP_PointShop_Processor\DRP_PointShop_Processor\bin\Release\net6.0-windows\final\DRP_PointShop_Processor.dll
+C:\Users\zec20\source\repos\DRP_PointShop_Processor\DRP_PointShop_Processor\bin\Release\net6.0-windows\final\DRP_PointShop_Processor.deps.json
+C:\Users\zec20\source\repos\DRP_PointShop_Processor\DRP_PointShop_Processor\bin\Release\net6.0-windows\final\DRP_PointShop_Processor.runtimeconfig.json
+C:\Users\zec20\source\repos\DRP_PointShop_Processor\DRP_PointShop_Processor\bin\Release\net6.0-windows\final\DRP_PointShop_Processor.pdb
