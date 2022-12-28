@@ -1,2 +1,2 @@
 # pointshop-item-generator
-Basic utility to easily create pointshop items (Gmod DarkRP)
+Basic utility to easily create items for SH Pointshop (Gmod DarkRP)
